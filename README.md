@@ -87,6 +87,7 @@ Users can enter customer information through the web interface and receive:
 
 ## 📁 Project Structure
 
+```text
 Customer Churn Prediction/
 ├── data/
 │   └── Telco-Customer-Churn.csv
@@ -111,6 +112,7 @@ Customer Churn Prediction/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 ## ▶️ Run Locally
 
